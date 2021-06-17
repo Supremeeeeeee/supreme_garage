@@ -1312,7 +1312,7 @@ end
 
 -------------------------------------------------
 ----------------GARAGES-CARS--------------------------
-exports["np-target"]:AddCircleZone("GarageCentral", vector3(215.800, -810.057, 29.727), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageCentral", vector3(215.800, -810.057, 29.727), 1.35, {
     name="GarageCentral",
     debugPoly=false,
     useZ=true,
@@ -1326,7 +1326,7 @@ exports["np-target"]:AddCircleZone("GarageCentral", vector3(215.800, -810.057, 2
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageSandy", vector3(1737.59, 3710.2, 33.14), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageSandy", vector3(1737.59, 3710.2, 33.14), 1.35, {
     name="GarageSandy",
     debugPoly=false,
     useZ=true,
@@ -1340,7 +1340,7 @@ exports["np-target"]:AddCircleZone("GarageSandy", vector3(1737.59, 3710.2, 33.14
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GaragePaleto", vector3(105.359, 6613.586, 31.3973), 1.35, {
+exports["bt-target"]:AddCircleZone("GaragePaleto", vector3(105.359, 6613.586, 31.3973), 1.35, {
     name="GaragePaleto",
     debugPoly=false,
     useZ=true,
@@ -1354,7 +1354,7 @@ exports["np-target"]:AddCircleZone("GaragePaleto", vector3(105.359, 6613.586, 31
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GaragePrison", vector3(1846.56, 2585.86, 44.67), 1.35, {
+exports["bt-target"]:AddCircleZone("GaragePrison", vector3(1846.56, 2585.86, 44.67), 1.35, {
     name="GaragePrison",
     debugPoly=false,
     useZ=true,
@@ -1368,7 +1368,7 @@ exports["np-target"]:AddCircleZone("GaragePrison", vector3(1846.56, 2585.86, 44.
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageLSPD", vector3(449.61, -1008.94, 26.94), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageLSPD", vector3(449.61, -1008.94, 26.94), 1.35, {
     name="GarageLSPD",
     debugPoly=false,
     useZ=true,
@@ -1382,7 +1382,7 @@ exports["np-target"]:AddCircleZone("GarageLSPD", vector3(449.61, -1008.94, 26.94
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageRaceTrack", vector3(1212.32, 339.94, 80.99), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageRaceTrack", vector3(1212.32, 339.94, 80.99), 1.35, {
     name="GarageRaceTrack",
     debugPoly=false,
     useZ=true,
@@ -1396,7 +1396,7 @@ exports["np-target"]:AddCircleZone("GarageRaceTrack", vector3(1212.32, 339.94, 8
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageCabCo", vector3(-1543.06, -575.0, 24.71), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageCabCo", vector3(-1543.06, -575.0, 24.71), 1.35, {
     name="GarageCabCo",
     debugPoly=false,
     useZ=true,
@@ -1410,7 +1410,7 @@ exports["np-target"]:AddCircleZone("GarageCabCo", vector3(-1543.06, -575.0, 24.7
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageLegionUG", vector3(211.82, -935.26, 23.28), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageLegionUG", vector3(211.82, -935.26, 23.28), 1.35, {
     name="GarageLegionUG",
     debugPoly=false,
     useZ=true,
@@ -1424,7 +1424,7 @@ exports["np-target"]:AddCircleZone("GarageLegionUG", vector3(211.82, -935.26, 23
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageHardware", vector3(-3143.68, 1056.28, 19.50), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageHardware", vector3(-3143.68, 1056.28, 19.50), 1.35, {
     name="GarageHardware",
     debugPoly=false,
     useZ=true,
@@ -1440,7 +1440,7 @@ exports["np-target"]:AddCircleZone("GarageHardware", vector3(-3143.68, 1056.28, 
     })
 -------------------------------------------------
 ----------------GARAGES-BOATS--------------------------
-exports["np-target"]:AddCircleZone("GarageLSDock", vector3(-735.87, -1325.08, 0.6), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageLSDock", vector3(-735.87, -1325.08, 0.6), 1.35, {
     name="GarageLSDock",
     debugPoly=false,
     useZ=true,
@@ -1454,7 +1454,7 @@ exports["np-target"]:AddCircleZone("GarageLSDock", vector3(-735.87, -1325.08, 0.
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageSandyDock", vector3(1333.2, 4269.92, 30.5), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageSandyDock", vector3(1333.2, 4269.92, 30.5), 1.35, {
     name="GarageSandyDock",
     debugPoly=false,
     useZ=true,
@@ -1468,7 +1468,7 @@ exports["np-target"]:AddCircleZone("GarageSandyDock", vector3(1333.2, 4269.92, 3
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GaragePaleto", vector3(-283.74, 6629.51, 6.3), 1.35, {
+exports["bt-target"]:AddCircleZone("GaragePaleto", vector3(-283.74, 6629.51, 6.3), 1.35, {
     name="GaragePaleto",
     debugPoly=false,
     useZ=true,
@@ -1484,7 +1484,7 @@ exports["np-target"]:AddCircleZone("GaragePaleto", vector3(-283.74, 6629.51, 6.3
     })
 -------------------------------------------------
 ----------------GARAGES-AIRCRAFT--------------------------
-exports["np-target"]:AddCircleZone("GarageLSAirport", vector3(-994.59, -2946.56, 12.96), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageLSAirport", vector3(-994.59, -2946.56, 12.96), 1.35, {
     name="GarageLSAirport",
     debugPoly=false,
     useZ=true,
@@ -1498,7 +1498,7 @@ exports["np-target"]:AddCircleZone("GarageLSAirport", vector3(-994.59, -2946.56,
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageSandyAirport", vector3(1723.84, 3288.29, 40.16), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageSandyAirport", vector3(1723.84, 3288.29, 40.16), 1.35, {
     name="GarageSandyAirport",
     debugPoly=false,
     useZ=true,
@@ -1512,7 +1512,7 @@ exports["np-target"]:AddCircleZone("GarageSandyAirport", vector3(1723.84, 3288.2
         },
         distance = 10.5
     })
-exports["np-target"]:AddCircleZone("GarageGrapeseedAirport", vector3(2152.83, 4797.03, 40.19), 1.35, {
+exports["bt-target"]:AddCircleZone("GarageGrapeseedAirport", vector3(2152.83, 4797.03, 40.19), 1.35, {
     name="GarageGrapeseedAirport",
     debugPoly=false,
     useZ=true,
